@@ -1,0 +1,68 @@
+./mesh/HirosePSP2008-new_0-50_LL.msh
+400.0
+0 1 0
+
+./mesh/JapanTrench0-40-100_smooth_clipped_c15_LL.mat
+1000.0
+0 1 0
+japan7.patch
+./mesh/toda&stein_c15_LL.msh
+1000.0
+1 1 1
+
+./mesh/cascadia.mat
+8000
+0 1 1
+
+./mesh/parkfieldNewDeep_LL.msh
+100
+0 1 0
+
+./mesh/central_america_50km_ext.mat
+7000.0
+0 1 1
+mex2.patch
+./mesh/alaska_50km_crop.mat
+100000.0
+0 1 0
+alaska3.patch
+./mesh/kamchatka_50km_crop.mat
+5000.0
+0 1 1
+kamchatka.patch
+./mesh/nz_wallace_30km.mat
+10000
+0 1 1
+
+./mesh/ryukyu_75km_ext_crop.mat
+90000.0
+0 1 0
+ryukyu6.patch
+./mesh/south_america_50km_mod_ext.mat
+5000
+0 1 0
+
+./mesh/sumatra_50km_ext.mat
+20000.0
+0 1 1
+sumatra2.patch
+./mesh/caribbean_40km_symithe.mat
+10000.0
+0 1 1
+
+./mesh/aegean_50km.mat
+10000
+0 1 1
+aegean2.patch
+./mesh/santa_cruz_200km_crop.mat
+40000
+0 1 0
+santa_cruz2.patch
+./mesh/Hubbard_plus_20km_chop.mat
+5000
+0 1 1
+himalaya11.patch
+./mesh/aleutians_200km.mat
+30000
+0 1 0
+aleutians3.patch
