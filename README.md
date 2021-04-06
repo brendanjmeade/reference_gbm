@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/120628742.svg)](https://zenodo.org/badge/latestdoi/120628742)
+
+
 # reference_gbm
 This repository contains the input and output files related to the reference Global Block Model described in the paper:
 
